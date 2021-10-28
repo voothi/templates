@@ -4,8 +4,8 @@ title: Project
 desc: ''
 updated: 1627597601449
 created: 1627011879390
-startDate: "TODO: date to start"
-endDate: "TODO: when project ends"
+startDate: 'TODO: date to start'
+endDate: 'TODO: when project ends'
 ---
 
 ## Goal
